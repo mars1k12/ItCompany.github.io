@@ -119,8 +119,7 @@ header label {
      z-index: 10;
      background-color: #020E35;
      top:-1000%;
-     width: 50%;
-     border-radius:5px;
+     width: 50%;     
      right: -0%;
      overflow: hidden;
      transition: all .5s ease-in-out;
