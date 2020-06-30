@@ -21,6 +21,8 @@ var mySwiper = new Swiper('.swiper-container', {
     }
   }
 })
+
+
 $(function(){
   $('a[href^="#"]').on('click', function(event) {
     // отменяем стандартное действие
@@ -39,3 +41,4 @@ $(function(){
     * 1000 скорость перехода в миллисекундах
     */
   });
+});
